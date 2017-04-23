@@ -1,0 +1,14 @@
+{ "waypoints":
+	[
+		{ "city": "Helsinki", "latitude": 60.1640504, "longitude": 24.7600896 },
+		{ "city": "Turku", "latitude": 60.4327477, "longitude": 22.0853171 },
+		{ "city": "Tampere", "latitude": 61.6277369, "longitude": 23.5501169 },
+		{ "city": "Vaasa", "latitude": 63.0651804, "longitude": 21.449383 },
+		{ "city": "Lappeenranta", "latitude": 60.9671004, "longitude": 27.6827033 },
+		{ "city": "Jyväskylä", "latitude": 62.1373432, "longitude": 25.0954598 },		
+		{ "city": "Kuopio", "latitude": 62.9950487, "longitude": 26.556762 },
+		{ "city": "Seinäjoki", "latitude": 62.7945521, "longitude": 22.8190716 },
+		{ "city": "Lahti", "latitude": 60.9948736, "longitude": 25.5747703 },
+		{ "city": "Rovaniemi", "latitude": 66.6670506, "longitude": 24.9107143 }
+	]
+}
